@@ -13,7 +13,7 @@ def main():
         user_number = int(input("Enter a positive number: "))
         # negative input catch
         if user_number < 0:
-            print("input cannot be negative")
+            print("input cannot be negative") 
         # loop
         while True:
             # process
